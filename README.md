@@ -38,6 +38,10 @@ Randomization is used in various parts of the code to introduce randomness into 
 The code controls the flow of the simulation, ensuring that customers and tokens interact and evolve over time.
 This code provides the foundation for simulating the behavior of customers and tokens on a cryptocurrency trading platform and allows for experimentation with different parameters and strategies. It is a work in progress, and additional details about the specific objectives and outcomes of the simulation will be developed over a period of time.
 
+Collaborators
+Krina Shah: krinashah149@gmail.com
+Nakiyah Dhariwala:: naqiyahdhariwala@hotmail.com
+
 
 
 
